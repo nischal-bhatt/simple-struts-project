@@ -11,6 +11,6 @@
    SUCCESS! SUCCESS!
    <br><br>
   <marquee> <s:property value="bestTutorialSite" /></marquee>
-   
+   <a style="background-color:yellow" href="http://localhost:8080/TutorialFinder">Go back</a>
 </body>
 </html>
