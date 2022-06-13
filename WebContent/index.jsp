@@ -8,7 +8,7 @@
 </head>
 <body bgcolor="pink">
 
-   <a href="tutorials/getTutorial">test</a>
+   <a href="tutorials/getTutorial">test click me</a>
 
 </body>
 </html>
